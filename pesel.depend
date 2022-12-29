@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1652092387 source:d:\studenci\zuzanna kozyra\pesel\src\pesel.cpp
+	"pesel.h"
+	<string>
+	<sstream>
+	<iomanip>
+
+1652089666 d:\studenci\zuzanna kozyra\pesel\include\pesel.h
+	<string>
+
+1652090150 source:d:\studenci\zuzanna kozyra\pesel\main.cpp
+	<iostream>
+	"pesel.h"
+	<vector>
+
